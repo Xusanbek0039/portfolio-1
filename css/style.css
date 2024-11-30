@@ -392,7 +392,9 @@
     height: 150px;
     object-fit: cover;
 }
-
+a{
+    color: black;
+}
 .portfolio-content .portfolio-item .view-img {
     display: flex;
     align-items: center;
